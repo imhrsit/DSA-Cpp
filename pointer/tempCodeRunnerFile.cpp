@@ -1,1 +1,0 @@
-cout<<"inside "<<p<<endl;
